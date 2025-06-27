@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72303380514",
+    "project_id": "mimibase-2d715",
+    "storage_bucket": "mimibase-2d715.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72303380514:android:7d86dc2c8c7d4b4a54627b",
+        "android_client_info": {
+          "package_name": "com.example.mimi_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZeeD7T31OhrTt5QDqY-t3SsIKYJR334A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
